@@ -1,2 +1,2 @@
 # antonkusters.github.io
- Archive of Anton Kusters
+the Archive of Anton Kusters
