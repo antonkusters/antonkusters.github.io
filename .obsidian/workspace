@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Works/Loiblpass North (Mauthausen) | 0001840 (est.) | 46.4439, 14.251705 (EX).md",
+            "file": "Exhibitions/1078 Blue Skies, 4432 Days.md",
             "mode": "preview",
             "backlinks": true,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Works/Loiblpass North (Mauthausen) | 0001840 (est.) | 46.4439, 14.251705 (EX).md",
+                "file": "Exhibitions/1078 Blue Skies, 4432 Days.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Works/Loiblpass North (Mauthausen) | 0001840 (est.) | 46.4439, 14.251705 (EX).md",
+                "file": "Exhibitions/1078 Blue Skies, 4432 Days.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,8 +120,8 @@
   },
   "active": "21f65671b7f1b79d",
   "lastOpenFiles": [
-    "Works/Loiblpass North (Mauthausen) | 0001840 (est.) | 46.4439, 14.251705 (EX).md",
     "Exhibitions/1078 Blue Skies, 4432 Days.md",
+    "Works/Loiblpass North (Mauthausen) | 0001840 (est.) | 46.4439, 14.251705 (EX).md",
     "Templates/Artwork template test.md",
     "Curriculum vitae.md",
     "Assets/1024_0660_mauthausen_022_loiblpass-north_0001840_20180129_A.jpg"

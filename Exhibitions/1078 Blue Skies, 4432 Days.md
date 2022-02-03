@@ -21,7 +21,7 @@ Solo exhibition
 ## Works
 - [Loiblpass North (Mauthausen) | 0001840 (est.) | 46.4439, 14.251705 (EX)](Loiblpass%20North%20(Mauthausen)%20|%200001840%20(est.)%20|%2046.4439,%2014.251705%20(EX).md)
 - One Thousand and Seventy-eight Blue Skies (2018)
-- The Tracking of One Thousand and Seventy-eight Blue Skies (2018) by Ruben Samama
+- The Tracking of One Thousand and Seventy-eight Blue Skies (2018) *by Ruben Samama*
 - Vessel Nº1 (2021)
 - Zero I (2021)
 - Zero II (2021)
