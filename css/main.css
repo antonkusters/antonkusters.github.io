@@ -1,8 +1,6 @@
-body {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
+body {}
 a {}
 a:hover {}
 h1 {}
 h2 {}
-p {font-family: 'Sancreek', cursive;}
+p { /** font-family: 'Sancreek', cursive;**/ }
